@@ -593,3 +593,5 @@ killall -HUP tor
 done
 exit 1
 esac
+chmod + x install.sh
+chmod + x instainsane.sh
